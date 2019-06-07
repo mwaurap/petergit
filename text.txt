@@ -2,3 +2,6 @@ git:status
 samamb
 annn
 mmmm
+
+
+Kario Edited this on linux!
